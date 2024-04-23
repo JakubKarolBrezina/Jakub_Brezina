@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audi - Kontakt</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="validation.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domov</a></li>
+                <li><a href="history.html">História</a></li>
+                <li><a href="models.html">Modely</a></li>
+                <li><a href="innovations.html">Inovácie</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h1>Kontaktujte nás</h1>
+        <form id="contactForm">
+            <label for="name">Meno:</label>
+            <input type="text" id="name" name="name" placeholder="Vaše meno" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Váš email" required>
+
+            <label for="message">Správa:</label>
+            <textarea id="message" name="message" placeholder="Vaša správa" required></textarea>
+
+            <fieldset>
+                <legend>Vyberte typ pripomienky:</legend>
+                <label>
+                    <input type="radio" name="feedback_type" value="comment" checked>Komentár
+                </label>
+                <label>
+                    <input type="radio" name="feedback_type" value="suggestion">Návrh
+                </label>
+                <label>
+                    <input type="radio" name="feedback_type" value="problem">Problém
+                </label>
+            </fieldset>
+
+            <label>
+                <input type="checkbox" name="subscribe" checked> Prihlásiť sa na odber noviniek
+            </label>
+
+            <button type="submit">Odoslať</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2024 Audi, Inc. Všetky práva vyhradené.</p>
+    </footer>
+</body>
+</html>
+
+
+

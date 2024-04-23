@@ -1,0 +1,39 @@
+{
+  "brands": [
+    {
+      "name": "Audi",
+      "models": [
+        {
+          "type": "SUV",
+          "vehicles": [
+            {
+              "model": "Q5",
+              "price": "50,000 USD",
+              "colors": [ "Black", "White", "Blue" ]
+            },
+            {
+              "model": "Q7",
+              "price": "70,000 USD",
+              "colors": [ "Black", "Silver" ]
+            }
+          ]
+        },
+        {
+          "type": "Sedan",
+          "vehicles": [
+            {
+              "model": "A4",
+              "price": "40,000 USD",
+              "colors": [ "White", "Blue" ]
+            },
+            {
+              "model": "A6",
+              "price": "55,000 USD",
+              "colors": [ "Black", "Blue", "Grey" ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
