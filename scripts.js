@@ -1,6 +1,6 @@
 ﻿document.addEventListener("DOMContentLoaded", function() {
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "data.xml", true);  // Presumuje prítomnosť súboru data.xml
+    xhr.open("GET", "data.xml", true);  
     xhr.onload = function () {
         if (xhr.status === 200) {
             var xml = xhr.responseXML;
