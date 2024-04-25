@@ -7,7 +7,7 @@
           {
             "name": "S8",
             "specs": {
-              "price": "130,000 USD",
+              "price": "130,000 EUR",
               "engine": "4.0L V8 TFSI",
               "colors": ["Black", "Silver", "Gray"]
             }
@@ -15,7 +15,7 @@
           {
             "name": "RS6",
             "specs": {
-              "price": "120,000 USD",
+              "price": "120,000 EUR",
               "engine": "4.0L V8 TFSI",
               "colors": ["Blue", "Red", "Black"]
             }
@@ -23,7 +23,7 @@
           {
             "name": "RSQ8",
             "specs": {
-              "price": "140,000 USD",
+              "price": "140,000 EUR",
               "engine": "4.0L V8 TFSI",
               "colors": ["Black", "Green", "White"]
             }
@@ -31,7 +31,7 @@
           {
             "name": "R8",
             "specs": {
-              "price": "170,000 USD",
+              "price": "170,000 EUR",
               "engine": "5.2L V10 FSI",
               "colors": ["Yellow", "Red", "Black"]
             }

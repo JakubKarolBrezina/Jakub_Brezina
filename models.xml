@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audi>
+  <Vehicles>
+    <Type name="Performance">
+      <Model>
+        <Name>S8</Name>
+        <Specs>
+          <Price>130,000 EUR</Price>
+          <Engine>4.0L V8 TFSI</Engine>
+          <Colors>
+            <Color>Black</Color>
+            <Color>Silver</Color>
+            <Color>Gray</Color>
+          </Colors>
+        </Specs>
+      </Model>
+      <Model>
+        <Name>RS6</Name>
+        <Specs>
+          <Price>120,000 EUR</Price>
+          <Engine>4.0L V8 TFSI</Engine>
+          <Colors>
+            <Color>Blue</Color>
+            <Color>Red</Color>
+            <Color>Black</Color>
+          </Colors>
+        </Specs>
+      </Model>
+      <Model>
+        <Name>RSQ8</Name>
+        <Specs>
+          <Price>140,000 EUR</Price>
+          <Engine>4.0L V8 TFSI</Engine>
+          <Colors>
+            <Color>Black</Color>
+            <Color>Green</Color>
+            <Color>White</Color>
+          </Colors>
+        </Specs>
+      </Model>
+      <Model>
+        <Name>R8</Name>
+        <Specs>
+          <Price>170,000 EUR</Price>
+          <Engine>5.2L V10 FSI</Engine>
+          <Colors>
+            <Color>Yellow</Color>
+            <Color>Red</Color>
+            <Color>Black</Color>
+          </Colors>
+        </Specs>
+      </Model>
+    </Type>
+  </Vehicles>
+</Audi>
